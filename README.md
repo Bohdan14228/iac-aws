@@ -23,8 +23,9 @@ terraform apply -auto-approve
 ```bash
 git clone https://github.com/Bohdan14228/configuration-management.git
 cd ansible-project/
-```  
-5.Change user, ip, ssh key in inventory.ini
+```
+
+5.Change user, ip, ssh key in inventory.ini  
 
 6. Start ansible
 ```bash
