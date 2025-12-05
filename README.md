@@ -19,7 +19,7 @@ terraform plan
 terraform apply -auto-approve
 ```  
 
-*4.Anible(https://github.com/Bohdan14228/configuration-management)
+4.Anible(https://github.com/Bohdan14228/configuration-management)
 ```bash
 git clone https://github.com/Bohdan14228/configuration-management.git
 cd ansible-project/
